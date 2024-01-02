@@ -16,3 +16,5 @@ def palindromo(string):
 
     return val
 
+def lowerCase(string): 
+    pass
