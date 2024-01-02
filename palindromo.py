@@ -16,5 +16,3 @@ def palindromo(string):
 
     return val
 
-palabra = "AwA"
-print(palindromo(palabra))
