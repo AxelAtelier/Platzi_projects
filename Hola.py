@@ -1,2 +1,4 @@
-Hola.py
-https://github.com/AxelAtelier/Platzi_projects.git≈
+'''
+Este va a ser mi primer proyecto de control de versiones xd
+
+'''
