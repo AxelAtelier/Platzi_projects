@@ -16,6 +16,7 @@ def palindromo(string):
 
     return val
 
+##Funcion para hacer minusculas los textos 
 def lowerCase(string): 
     string = string.lower() 
     return string
