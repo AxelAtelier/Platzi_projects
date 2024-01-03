@@ -20,3 +20,6 @@ def palindromo(string):
 def lowerCase(string): 
     string = string.lower() 
     return string
+
+def removeSpaces(string):
+    pass
